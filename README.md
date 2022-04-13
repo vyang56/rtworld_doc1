@@ -1,5 +1,5 @@
 # 一个小团队框架的实现
-bu StreetYang
+by StreetYang
 
 ## 问题和基本方案
 > 小团队核心问题是：难以流程化
